@@ -1,0 +1,21 @@
+# Site settings
+title: Camille Codes
+header-img: img/home-bg.png
+email: neuner.camille@gmail.com
+copyright_name: camneu37
+description: > # this means to ignore newlines until "baseurl:"
+  A Journey into Web Developement
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  camneu37
+learn_profile: camneu37
+email_username: neuner.camille@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
