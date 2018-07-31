@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Two Takeaways from Developing My Reading List, a Rails App"
-date:       2018-07-31 05:44:45 +0000
+title:      "Two Takeaways from Developing My Reading List in Rails"
+date:       2018-07-31 01:44:46 -0400
 permalink:  two_takeaways_from_developing_my_reading_list_a_rails_app
 ---
 
